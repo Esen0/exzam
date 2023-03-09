@@ -1,0 +1,18 @@
+.container {
+    margin-left: 450px;
+    margin-top: 50px;
+}
+.card {
+    width: 500px;
+}
+.img2 {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    margin-left: 0;
+    z-index: -1;
+}
+.name2 {
+    display: flex;
+    align-items: end;
+}

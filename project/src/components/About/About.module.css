@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(145, 33, 139) ;
+    width: 950px;
+    height: 332px;
+    align-items: center;
+    margin-left: 170px;
+    margin-top: 50px;
+    color: white;
+}
+.img {
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+.text {
+    width: 450px;
+    text-align: center;
+}
+.title {
+    text-align: center;
+}
